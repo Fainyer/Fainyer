@@ -17,10 +17,6 @@ I'm Fainyer, a Full Stack Developer. I am passionate about Backend and Frontend 
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 
 My most recent project is [HENRY-LUXURY](https://github.com/Santiago-Miranda/HENRY-LUXURY)  
   
@@ -29,13 +25,7 @@ My most recent project is [HENRY-LUXURY](https://github.com/Santiago-Miranda/HEN
   
 
 - ✉️ how to contact me fainyermxd9@gmail.com  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
