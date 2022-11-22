@@ -78,5 +78,3 @@ My most recent project is [HENRY-LUXURY](https://github.com/Santiago-Miranda/HEN
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
