@@ -20,9 +20,14 @@ I'm Fainyer, a Full Stack Developer. I am passionate about Backend and Frontend 
 🔭 
 My most recent projects
 
-- [HENRY-LUXURY](https://github.com/Santiago-Miranda/HENRY-LUXURY)
-- https://admisionescolegiorefous.com/
-- 
+- E-comerce project: https://front-wheat-gamma.vercel.app/
+- Admisiones Colegio Refous: https://admisionescolegiorefous.com/
+- Civilia: https://civilia.com.co/
+- Construciones Urbanas: https://curbanas.com/
+- Integra Constructora: https://integraconstructora.com.co/
+- Tribu 96: https://www.tribu96.com/
+- Terraverde Vista: https://www.terraverdevista.com.co/
+- Cawa Valledupar: https://www.cawavalledupar.com/
 
 
   
